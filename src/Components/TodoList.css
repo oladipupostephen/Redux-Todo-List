@@ -1,0 +1,12 @@
+/* components/TodoList.css */
+.todo-list {
+  min-height: 200px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.empty-message {
+  padding: 40px;
+  color: #a0aec0;
+  font-style: italic;
+}
